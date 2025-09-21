@@ -1,6 +1,7 @@
+ToDo List App 
 
-Your project is live at:
+Project is live at:
 
-**[https://vercel.com/ardyprojects-projects/v0-indonesian-todo-list-app]
+**[https://apps-seven-psi.vercel.app/]
 
 
